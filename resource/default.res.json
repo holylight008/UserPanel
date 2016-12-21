@@ -1,0 +1,210 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,bj_jpg,r2_png,r3_png,r4_png,r1_png,l1_png,l2_png,l3_png,l4_png,d3_png,d4_png,d1_png,d2_png,u1_png,u2_png,u3_png,u4_png,wall_jpg,path_jpg,i2_png,i3_png,i4_png,i5_png,i1_png,ACCEPTABLE_png,CAN_SUBMIT_png,DURING_png,npc_0_png,npc_1_png,buttonAccept_png,buttonFinish_png,dialog_jpg,taskPanel_jpg,pig_png,heroDetails_jpg,w1_jpg,w2_jpg,w3_jpg,w4_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bj_jpg",
+			"type": "image",
+			"url": "assets/bj.jpg"
+		},
+		{
+			"name": "r2_png",
+			"type": "image",
+			"url": "assets/r2.png"
+		},
+		{
+			"name": "r3_png",
+			"type": "image",
+			"url": "assets/r3.png"
+		},
+		{
+			"name": "r4_png",
+			"type": "image",
+			"url": "assets/r4.png"
+		},
+		{
+			"name": "r1_png",
+			"type": "image",
+			"url": "assets/r1.png"
+		},
+		{
+			"name": "l1_png",
+			"type": "image",
+			"url": "assets/l1.png"
+		},
+		{
+			"name": "l2_png",
+			"type": "image",
+			"url": "assets/l2.png"
+		},
+		{
+			"name": "l3_png",
+			"type": "image",
+			"url": "assets/l3.png"
+		},
+		{
+			"name": "l4_png",
+			"type": "image",
+			"url": "assets/l4.png"
+		},
+		{
+			"name": "d3_png",
+			"type": "image",
+			"url": "assets/d3.png"
+		},
+		{
+			"name": "d4_png",
+			"type": "image",
+			"url": "assets/d4.png"
+		},
+		{
+			"name": "d1_png",
+			"type": "image",
+			"url": "assets/d1.png"
+		},
+		{
+			"name": "d2_png",
+			"type": "image",
+			"url": "assets/d2.png"
+		},
+		{
+			"name": "u1_png",
+			"type": "image",
+			"url": "assets/u1.png"
+		},
+		{
+			"name": "u2_png",
+			"type": "image",
+			"url": "assets/u2.png"
+		},
+		{
+			"name": "u3_png",
+			"type": "image",
+			"url": "assets/u3.png"
+		},
+		{
+			"name": "u4_png",
+			"type": "image",
+			"url": "assets/u4.png"
+		},
+		{
+			"name": "wall_jpg",
+			"type": "image",
+			"url": "assets/wall.jpg"
+		},
+		{
+			"name": "path_jpg",
+			"type": "image",
+			"url": "assets/path.jpg"
+		},
+		{
+			"name": "i2_png",
+			"type": "image",
+			"url": "assets/i2.png"
+		},
+		{
+			"name": "i3_png",
+			"type": "image",
+			"url": "assets/i3.png"
+		},
+		{
+			"name": "i4_png",
+			"type": "image",
+			"url": "assets/i4.png"
+		},
+		{
+			"name": "i5_png",
+			"type": "image",
+			"url": "assets/i5.png"
+		},
+		{
+			"name": "i1_png",
+			"type": "image",
+			"url": "assets/i1.png"
+		},
+		{
+			"name": "ACCEPTABLE_png",
+			"type": "image",
+			"url": "assets/ACCEPTABLE.png"
+		},
+		{
+			"name": "CAN_SUBMIT_png",
+			"type": "image",
+			"url": "assets/CAN_SUBMIT.png"
+		},
+		{
+			"name": "DURING_png",
+			"type": "image",
+			"url": "assets/DURING.png"
+		},
+		{
+			"name": "npc_0_png",
+			"type": "image",
+			"url": "assets/npc_0.png"
+		},
+		{
+			"name": "npc_1_png",
+			"type": "image",
+			"url": "assets/npc_1.png"
+		},
+		{
+			"name": "buttonAccept_png",
+			"type": "image",
+			"url": "assets/buttonAccept.png"
+		},
+		{
+			"name": "buttonFinish_png",
+			"type": "image",
+			"url": "assets/buttonFinish.png"
+		},
+		{
+			"name": "dialog_jpg",
+			"type": "image",
+			"url": "assets/dialog.jpg"
+		},
+		{
+			"name": "taskPanel_jpg",
+			"type": "image",
+			"url": "assets/taskPanel.jpg"
+		},
+		{
+			"name": "pig_png",
+			"type": "image",
+			"url": "assets/pig.png"
+		},
+		{
+			"name": "heroDetails_jpg",
+			"type": "image",
+			"url": "assets/heroDetails.jpg"
+		},
+		{
+			"name": "w1_jpg",
+			"type": "image",
+			"url": "assets/w1.jpg"
+		},
+		{
+			"name": "w2_jpg",
+			"type": "image",
+			"url": "assets/w2.jpg"
+		},
+		{
+			"name": "w3_jpg",
+			"type": "image",
+			"url": "assets/w3.jpg"
+		},
+		{
+			"name": "w4_jpg",
+			"type": "image",
+			"url": "assets/w4.jpg"
+		}
+	]
+}
